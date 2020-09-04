@@ -3,7 +3,7 @@
 # Collaborator: Chetan Mitra czm5805@psu.edu
 # Collaborator: Jian Hong WOng jpw6087@psu.edu
 
-temp = input("Enter temperature in celsius: ")
+temp = input("Enter temperature: ")
 unit = input("Enter unit in F/f or C/c: ")
 
 if unit == "C" or unit == "c":
